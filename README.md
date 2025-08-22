@@ -1,7 +1,8 @@
 # Ex.-No-2-Interconnecting-Two-LANs-Using-a-Router-Basic-Router-Configuration
+## Date : 22-08-2025
 ## Name: Santhosh K
 ## RegNo: 212223100050
-## Date : 22-08-2025
+
 
 # Objective
 To configure a router to connect two separate LANs and enable communication between them using static IP addressing.
@@ -54,15 +55,15 @@ Router(config-if)# no shutdown<br>
 ________________________________________
 # Output (Screenshots)
 
-•	IP configurations on PCs<br>
+## •	IP configurations on PCs<br>
 
 <img width="1180" height="373" alt="Screenshot 2025-08-22 085157" src="https://github.com/user-attachments/assets/057213d9-0d35-489c-abb6-070aea27a9ac" />
 
-•	Router CLI configuration<br>
+## •	Router CLI configuration<br>
 
 <img width="1649" height="602" alt="Screenshot 2025-08-22 085437" src="https://github.com/user-attachments/assets/cf951b48-3ac5-4465-819c-b4d215d9b4e2" />
 
-•	Successful ping between PC0 and PC1<br>
+## •	Successful ping between PC0 and PC1<br>
 
 <img width="859" height="368" alt="Screenshot 2025-08-22 085245" src="https://github.com/user-attachments/assets/1daa2e11-009d-4d85-8736-abe45b84db0f" />
 
